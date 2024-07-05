@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<header>
 <h3 align="center">hj's hub</h3>
+</header>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=HyunjinKim's%20&fontColor=fdfeff)
 
