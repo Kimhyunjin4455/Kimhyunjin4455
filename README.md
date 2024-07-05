@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 text-align: center>hj's hub</h3>
+<h3 text-align= center>hj's hub</h3>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=HyunjinKim's%20&fontColor=fdfeff)
 
