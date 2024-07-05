@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=HyunjinKim's%20&fontColor=fdfeff)
 
-<hr>
+##
 
 <img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>
 
