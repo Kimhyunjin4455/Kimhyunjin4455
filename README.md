@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dp4455)](https://solved.ac/dp4455)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhyunjin4455&layout=compact)](https://github.com/Kimhyunjin4455/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhyunjin445&layout=compact)](https://github.com/Kimhyunjin4455/github-readme-stats)
 
 <br/><br/>
 
