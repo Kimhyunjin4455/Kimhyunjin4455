@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=HyunjinKim's%20&fontColor=fdfeff)
 
-<div style="margin-top:50"></style>
+<div style="margin-top:50"></div>
 ##
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
