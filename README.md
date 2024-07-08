@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=Hyunjin Kim's%20&fontColor=fdfeff)
 
-<br/><br/><br/>
-
 ##
-
-<div style="margin-bottom:200px;"></div>
+<br/><br/>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
