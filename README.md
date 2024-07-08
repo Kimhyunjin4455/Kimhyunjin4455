@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-<img src="https://img.shields.io/badge/PyCharm-1e88e5?&style=for-the-badge&logo=Pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJIDEA-1e88e5?&style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-9acd32?&style=for-the-badge&logo=Pycharm&logoColor=white">
 <a href="https://www.notion.so/2f83f04a08384af48048b0e89cce938e"><img src="https://img.shields.io/badge/Notion-623412?&style=for-the-badge&logo=Notion&logoColor=white">
 
 <br/><br/>
