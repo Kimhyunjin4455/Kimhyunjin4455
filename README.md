@@ -20,13 +20,6 @@ Here are some ideas to get you started:
 ##
 <br/><br/>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhyunjin4455)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/><br/>
--->
-
-
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
@@ -46,7 +39,7 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dp4455)](https://solved.ac/dp4455)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhyunjin4455&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhyunjin4455&layout=compact)](https://github.com/Kimhyunjin4455/github-readme-stats)
 
 <br/><br/>
 
