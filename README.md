@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ##
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp4455@naver.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp4455)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
