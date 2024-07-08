@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 </div>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dp4455})](https://solved.ac/{dp4455})
