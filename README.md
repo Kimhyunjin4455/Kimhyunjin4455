@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=HyunjinKim's%20&fontColor=fdfeff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=Hyunjin Kim's%20&fontColor=fdfeff)
 
 div {
     margin-bottom: 100px;
