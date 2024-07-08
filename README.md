@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=HyunjinKim's%20&fontColor=fdfeff)
 
-<div style="margin-top:50px"></div>
+<style>
+  div {
+    margin-bottom: 100px;
+  }
+</style>
 
 ##
 
