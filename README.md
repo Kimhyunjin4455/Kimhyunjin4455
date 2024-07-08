@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center> 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=afd5f0&height=200&section=header&text=Hyunjin Kim's%20&fontColor=fdfeff)
 
 ##
 <br/><br/>
 
-<div align=center> 
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
