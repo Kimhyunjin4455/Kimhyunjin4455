@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 <a href="https://www.notion.so/2f83f04a08384af48048b0e89cce938e"><img src="https://img.shields.io/badge/Notion-623412?&style=for-the-badge&logo=Notion&logoColor=white">
 
 <br/><br/>
-<div align=center> 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dp4455)](https://solved.ac/dp4455)
