@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 
 ##
 
-<img src="https://img.shields.io/badge/배지텍스트-배지컬러코드?style=flat-square&logo=아이콘이름&logoColor=white"/>               
+<div>
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
+
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dp4455)](https://solved.ac/dp4455)
