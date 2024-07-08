@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=Pycharm&logoColor=black&color=black&labelColor=green)
 <a href="https://www.notion.so/2f83f04a08384af48048b0e89cce938e"><img src="https://img.shields.io/badge/Notion-CCBC97?&style=for-the-badge&logo=Notion&logoColor=white"/>
 
 <br/><br/>
