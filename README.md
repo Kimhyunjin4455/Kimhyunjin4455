@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/IntelliJIDEA-1e88e5?&style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-9acd32?&style=for-the-badge&logo=Pycharm&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-9acd32?&style=for-the-badge&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-ffa500?&style=for-the-badge&logo=Swagger&logoColor=white">
 <a href="https://www.notion.so/2f83f04a08384af48048b0e89cce938e"><img src="https://img.shields.io/badge/Notion-623412?&style=for-the-badge&logo=Notion&logoColor=white">
 
 <br/><br/>
