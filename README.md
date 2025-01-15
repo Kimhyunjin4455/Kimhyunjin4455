@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-0072B8?style=for-the-badge&color=0072B8)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-3B3B3B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAeRk5mAAAABGdBTUEAALGPC/xhBQAAAAJcEhZcwAADsMAAA7DAcdvqGQAABJ5RVh0U29mdHwgQmF0Y2hWb3JrZXI=)
