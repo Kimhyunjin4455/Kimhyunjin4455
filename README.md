@@ -30,9 +30,14 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-0072B8?style=for-the-badge&color=0072B8)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-3B3B3B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAeRk5mAAAABGdBTUEAALGPC/xhBQAAAAJcEhZcwAADsMAAA7DAcdvqGQAABJ5RVh0U29mdHwgQmF0Y2hWb3JrZXI=)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
+![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black) ![SMTP](https://img.shields.io/badge/SMTP-FF5733?style=for-the-badge&logo=Mail.Ru&logoColor=white) ![SSE](https://img.shields.io/badge/SSE-000000?style=for-the-badge&logo=Serverless&logoColor=white)   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 <img src="https://img.shields.io/badge/IntelliJIDEA-1e88e5?&style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-9acd32?&style=for-the-badge&logo=Pycharm&logoColor=white">
 <img src="https://img.shields.io/badge/Swagger-ffa500?&style=for-the-badge&logo=Swagger&logoColor=white">
